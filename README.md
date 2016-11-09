@@ -23,7 +23,7 @@ in your terminal window and see the notebook panel load in your web browser.
 
 ## Presentation Format
 
-This 1-hour tutorial is designed to get the audience training neural networks by the end of the session. In particular, it covers areas where neural networks really shines - CNNs and RNNs. These techniques will be applied on the Kaggle Titanic, MNIST and Rotten Tomatoes datasets.
+This 1-hour tutorial is designed to get the audience training neural networks by the end of the session. In particular, it covers areas where neural networks really shines - CNNs and RNNs. These techniques are applied on the Kaggle Titanic, MNIST and Rotten Tomatoes datasets.
 
 - [1-0_Prelude](https://github.com/savarin/neural-networks/blob/master/1-0_Prelude.ipynb)
 - [1-1_Basic_NN-Titanic](https://github.com/savarin/neural-networks/blob/master/1-1_Basic_NN-Titanic.ipynb)
