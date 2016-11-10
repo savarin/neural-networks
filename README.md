@@ -11,7 +11,7 @@ This tutorial requires *tensorflow*, *keras* and *IPython* with the IPython Note
 
 Next, clone the material in this tutorial using git as follows:
 
-    git clone git@github.com:savarin/neural-networks.git
+    git clone https://github.com/savarin/neural-networks.git
 
 We will be reviewing the materials with the IPython Notebook. You should be able
 to type
