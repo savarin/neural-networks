@@ -31,7 +31,7 @@ This tutorial is designed to get the audience training neural networks at the en
 - [2-2_Regularized_NN](https://github.com/savarin/neural-networks/blob/master/2-2_Regularized_NN.ipynb)
 - [2-3_CNN](https://github.com/savarin/neural-networks/blob/master/2-3_CNN.ipynb)
 - [3-3_RNN](https://github.com/savarin/neural-networks/blob/master/3-3_RNN.ipynb)
-- [Appendix-Gradient_Descent](https://github.com/savarin/neural-networks/blob/master/Appendix-Gradient_Descent.ipynb)
+- [Appendix-SGD](https://github.com/savarin/neural-networks/blob/master/Appendix-SGD.ipynb)
 
 The code-only versions of these notebooks can be found [here](https://github.com/savarin/neural-networks/tree/master/code).
 
