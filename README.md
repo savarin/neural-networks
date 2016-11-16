@@ -33,7 +33,7 @@ This tutorial is designed to get the audience training neural networks at the en
 - [3-3_RNN](https://github.com/savarin/neural-networks/blob/master/3-3_RNN.ipynb)
 - [Appendix-SGD](https://github.com/savarin/neural-networks/blob/master/Appendix-SGD.ipynb)
 
-The code-only versions of these notebooks can be found [here](https://github.com/savarin/neural-networks/tree/master/code).
+Code-only versions of these notebooks can be found [here](https://github.com/savarin/neural-networks/tree/master/code).
 
 ## Credits
 
