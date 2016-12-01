@@ -5,7 +5,7 @@ This tutorial requires *tensorflow*, *keras* and *IPython* with the IPython Note
 
     pip install --upgrade pip
     pip install scipy
-    pip install numpy pandas sklearn ipython
+    pip install numpy pandas sklearn ipython matplotlib
     pip install tensorflow keras
     pip install jupyter
 
