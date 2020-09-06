@@ -33,8 +33,6 @@ This tutorial is designed to get the audience training neural networks at the en
 - [3-3_RNN](https://github.com/savarin/neural-networks/blob/master/3-3_RNN.ipynb)
 - [Appendix-SGD](https://github.com/savarin/neural-networks/blob/master/Appendix-SGD.ipynb)
 
-Code-only versions of these notebooks can be found [here](https://github.com/savarin/neural-networks/tree/master/code).
-
 ## Credits
 
 Special thanks for the excellent materials by Andrej Karpathy and the CS231n teaching staff, Chris Olah and Denny Britz (do check out their posts!), as well as the teams at Google TensorFlow, Keras and Kaggle.
